@@ -36,11 +36,135 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A booke called in latyn Enchiridion militis christiani, and in englysshe the manuell of the christen
+
+1. ¶The booke speaketh.
+
+1. ¶The printer to the faythfull reder.
+
+1. ¶Erasmus Roterdame sendeth
+gretyng to the reuerende father
+in Christ (and lorde) the lorde
+Paule Uolzius / the moste
+religyous abbot of the
+monastery the
+whiche is
+comenly
+called Hughes
+courte.
+
+1. ¶Here foloweth the table of
+this present booke.
+
 #####Body#####
 
+1. ¶A compendyous treatyse of the
+sowdyour of Chryst / called Enchiridion / 
+whiche Erasmus
+of Roterdame wrote vnto
+a certayne courtyer / a
+frende of his.
+
+    _ ¶we must watche & loke aboute vs euer
+more whyle we be in this lyfe. Caplo .j.
+
+    _ ¶Of the wepons to be vsed in the
+warre of a chrysten man. Ca .ij.
+
+    _ ¶That the fyrst poynt of wysdome is
+to knowe thy selfe / and of two maner
+wysdomes / the true wysdome / 
+& the apparēt. Ca .iij.
+
+    _ ¶Of the outward & inward man. Ca .iiij
+
+    _ ¶Of the diuersite of affections. Ca .v.
+
+    _ ¶Of the inwarde & outwarde man
+and of the two partes of man / proued
+by holy scripture. Caplo .vj.
+
+    _ ¶Of thre partes of man / the spiryte / 
+the soule / and the flesshe. Caplo .vij.
+
+    _ ¶Certayne generall rules of true
+chrysten lyuynge. Ca .viij.
+
+    _ ¶Agaynst the euyll of ignoraunce
+the fyrst rule. Caplo .ix.
+
+    _ ¶The seconde rule. Caplo .x.
+
+    _ ¶The thyrde rule. Caplo .xj.
+
+    _ ¶The fourth rule. cap .xij.
+
+    _ ¶The fyfth rule. capi .xiij.
+
+    _ ¶The syxth rule. capi .xiiij.
+
+    _ ¶Here folowen opynyons mete
+for a chrysten man. Capl .xv.
+
+    _ ¶The seuenth rule. Caplo .xvj.
+
+    _ ¶The eyght rule. Caplo .xvij.
+
+    _ ¶The nynth rule. Caplo .xviij.
+
+    _ ¶The tenth rule. Caplo .xix.
+
+    _ ¶The .xj. rule. Caplo .xx.
+
+    _ ¶The .xij. rule. Caplo .xxj.
+
+    _ ¶The .xiij. rule. Caplo .xxij.
+
+    _ ¶The .xiiij. rule. Caplo .xxiij.
+
+    _ ¶The .xv. rule. Caplo .xxiiij.
+
+    _ ¶The .xvj. rule. Caplo .xxv.
+
+    _ ¶The .xvij. rule. Caplo .xxvj.
+
+    _ ¶The .xviij. rule. capi .xxvij.
+
+    _ ¶The nyntenth rule. capi .xxviij.
+
+    _ ¶The twenteth rule.
+capitulo. xxix.
+
+    _ ¶The .xxi. rule. capi .xxx.
+
+    _ ¶The .xxij. rule. capi .xxxj.
+
+    _ ¶Remedyes agaynst certayne synnes
+and specyall vyces / & first agaynst
+bodyly luste. capi .xxxij.
+
+    _ ¶A shorte recapitulacyon of remedyes
+agaynst the flame of lust. Capi .xxxiij.
+
+    _ ¶Agaynst the entysynges and prouokynges
+vnto auaryce. Capi .xxxiiij.
+
+    _ ¶The recapitulacyon of the remedyes
+agaynst the vyce of auarice. Ca .xxxv.
+
+    _ ¶Agaynst ambicyon or desyre of honour
+and authorite. Capi .xxxvj.
+
+    _ ¶Agaynst elacyon otherwyse called pride
+or swellyng of the mynde. capi .xxxvij.
+
+    _ ¶Agaynst wrathe and desyre of
+vengeaunce. capi .xxxviij.
+
 #####Back#####
-A booke called in latyn Enchiridion militis christiani, and in englysshe the manuell of the christen
+¶Here endeth this boke called
+Enchiridion or the manuell of
+the chrysten knyght / made by
+Erasmus of
 **Types of content**
 
   * There are 27 **verse** lines!
